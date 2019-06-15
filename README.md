@@ -1,2 +1,2 @@
 # TicTacToe
-A TTT program wriiten using C++.
+A TTT program written using C++.
